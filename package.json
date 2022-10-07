@@ -1,18 +1,18 @@
 {
   "name": "ss41-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยlot✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยlot",
-"เว็บหวยฮานอยออนไลน์",
-"lottovipcompany",
-"melotto.bet",
-"โชคดีวันหวยออก"
-],
+  "version": "0.2.0",
+  "description": "หวยlot✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยlot",
+    "เว็บหวยฮานอยออนไลน์",
+    "lottovipcompany",
+    "melotto.bet",
+    "โชคดีวันหวยออก"
+  ],
   "repository": "https://github.com/setteebet/ss41-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
